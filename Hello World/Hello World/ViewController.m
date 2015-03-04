@@ -20,6 +20,7 @@
     NSLog(@"Hello - Welcome to this virtual world!");
     NSLog(@"It's ugly,but you will like it!");
     NSLog(@"No matter what!Every problem is a time problem!");
+    NSLog(@"Do what you love,then you'll be reenergized");
     
     
 }
