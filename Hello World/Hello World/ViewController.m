@@ -17,7 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"Hello - Welcome to this viirual world!");
+    NSLog(@"Hello - Welcome to this virtual world!");
+    NSLog(@"It's ugly,but you will like it!");
     
     
 }
